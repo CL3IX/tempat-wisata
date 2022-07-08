@@ -1,0 +1,118 @@
+body {
+  background-color: #f6fbf4;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+@media only screen and (min-width: 1025px) {
+  .gbr {
+    height: 160px;
+    width: 320px;
+    margin-top: 5rem;
+    margin-left: 12rem;
+  }
+
+  .tlsn {
+    margin-top: 5rem;
+  }
+
+  .cd3 {
+    margin-left: 2rem;
+  }
+
+  .cd4 {
+    margin-left: 3rem;
+  }
+
+  .cdall {
+    margin-right: 2rem;
+  }
+
+  .showmore {
+    margin-top: 2rem;
+  }
+
+  .gbr2 {
+    margin-left: 10rem;
+  }
+
+  .tlsn3 {
+    margin-top: 1rem;
+  }
+
+  .cdd {
+    margin-left: 4rem;
+  }
+
+  .cdd6 {
+    margin-left: 8rem;
+  }
+
+  .btg {
+    padding-left: 9rem;
+  }
+
+  .bg1 {
+    margin-left: 1rem;
+  }
+
+  .owner {
+    margin-top: 2rem;
+    margin-left: 7rem;
+  }
+
+  .kirim {
+    margin-left: 15rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .gbr {
+    margin-left: 2rem;
+    width: 300px;
+  }
+
+  .gbr2 {
+    width: 360px;
+  }
+
+  .lokasi {
+    padding-left: 4rem;
+    margin-top: 1rem;
+  }
+
+  .lokasi2 {
+    padding-left: 3rem;
+    margin-top: 1rem;
+  }
+
+  .showmore {
+    margin-top: 2rem;
+  }
+
+  .kirim {
+    margin-left: 8rem;
+  }
+}

@@ -99,12 +99,12 @@ section {
   }
 
   .lokasi {
-    padding-left: 4rem;
+    padding-left: 3rem;
     margin-top: 1rem;
   }
 
   .lokasi2 {
-    padding-left: 3rem;
+    padding-left: 2rem;
     margin-top: 1rem;
   }
 
@@ -113,6 +113,6 @@ section {
   }
 
   .kirim {
-    margin-left: 8rem;
+    padding-left: 8rem;
   }
 }

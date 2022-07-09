@@ -95,7 +95,7 @@ section {
   }
 
   .gbr2 {
-    width: 360px;
+    width: 350px;
   }
 
   .lokasi {
@@ -113,6 +113,11 @@ section {
   }
 
   .kirim {
-    padding-left: 8rem;
+    margin-left: 8rem;
+  }
+
+  .owner {
+    margin-top: 2rem;
+    margin-left: 6rem;
   }
 }
